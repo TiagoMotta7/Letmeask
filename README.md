@@ -36,7 +36,10 @@ Lembrando que será necessário criar uma conta no [Firebase](https://firebase.g
 ## 💻 Telas
 
 <h1 align="center">
-    <img alt="Letmeask" src="./images/Home.png" />
+    <img alt="Home" src="./images/Home.png" />
+    <img alt="Criando salas" src="./images/Criar Sala.png" />
+    <img alt="Sala" src="./images/Sala.png" />
+    <img alt="Sala admin" src="./images/Sala Admin.png" />
 </h1>
 
 ## 💻 Projeto
